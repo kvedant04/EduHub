@@ -314,7 +314,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ for modern education
+Built with ❤️ for modern education by [Vedansh Pandey] and [Vedant Kolhe]
 
 ## 🙏 Acknowledgments
 
